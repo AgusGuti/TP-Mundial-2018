@@ -1,0 +1,114 @@
+# depslib dependency file v1.0
+1527865304 source:c:\users\agus\desktop\mundial\01-06-2018\equipo.cpp
+	<iostream>
+	"equipo.h"
+
+1527865206 c:\users\agus\desktop\mundial\01-06-2018\equipo.h
+
+1527865396 source:c:\users\agus\desktop\mundial\01-06-2018\grupo.cpp
+	<iostream>
+	"grupo.h"
+
+1527860320 c:\users\agus\desktop\mundial\01-06-2018\grupo.h
+
+1527865430 source:c:\users\agus\desktop\mundial\01-06-2018\jugador.cpp
+	<iostream>
+	"jugador.h"
+
+1527865162 c:\users\agus\desktop\mundial\01-06-2018\jugador.h
+
+1527865472 source:c:\users\agus\desktop\mundial\01-06-2018\partido.cpp
+	<iostream>
+	"partido.h"
+
+1527865132 c:\users\agus\desktop\mundial\01-06-2018\partido.h
+
+1527968174 source:c:\users\agus\desktop\mundial\01-06-2018\main.cpp
+	<iostream>
+
+1527974015 source:c:\users\ruso-note\google drive\unla\2°do año\estructura de datos\proyectos\tp mundial\codigo\02-06-2018 menus\equipo.cpp
+	<iostream>
+	"equipo.h"
+
+1527974016 c:\users\ruso-note\google drive\unla\2°do año\estructura de datos\proyectos\tp mundial\codigo\02-06-2018 menus\equipo.h
+
+1527974016 source:c:\users\ruso-note\google drive\unla\2°do año\estructura de datos\proyectos\tp mundial\codigo\02-06-2018 menus\grupo.cpp
+	<iostream>
+	"grupo.h"
+
+1527974016 c:\users\ruso-note\google drive\unla\2°do año\estructura de datos\proyectos\tp mundial\codigo\02-06-2018 menus\grupo.h
+
+1527974016 source:c:\users\ruso-note\google drive\unla\2°do año\estructura de datos\proyectos\tp mundial\codigo\02-06-2018 menus\jugador.cpp
+	<iostream>
+	"jugador.h"
+
+1527974016 c:\users\ruso-note\google drive\unla\2°do año\estructura de datos\proyectos\tp mundial\codigo\02-06-2018 menus\jugador.h
+
+1527974014 source:c:\users\ruso-note\google drive\unla\2°do año\estructura de datos\proyectos\tp mundial\codigo\02-06-2018 menus\partido.cpp
+	<iostream>
+	"partido.h"
+
+1527974015 c:\users\ruso-note\google drive\unla\2°do año\estructura de datos\proyectos\tp mundial\codigo\02-06-2018 menus\partido.h
+
+1527994973 source:c:\users\ruso-note\desktop\02-06-2018 desarrollo de las tda\grupo.cpp
+	<iostream>
+	"grupo.h"
+
+1527996416 c:\users\ruso-note\desktop\02-06-2018 desarrollo de las tda\grupo.h
+	<string>
+
+1527998383 source:c:\users\ruso-note\desktop\02-06-2018 desarrollo de las tda\partido.cpp
+	<iostream>
+	"partido.h"
+
+1527998465 c:\users\ruso-note\desktop\02-06-2018 desarrollo de las tda\partido.h
+	<string>
+
+1527988660 source:c:\users\ruso-note\desktop\02-06-2018 desarrollo de las tda\equipo.cpp
+	<iostream>
+	"equipo.h"
+
+1527989218 c:\users\ruso-note\desktop\02-06-2018 desarrollo de las tda\equipo.h
+	<string>
+
+1527989113 source:c:\users\ruso-note\desktop\02-06-2018 desarrollo de las tda\jugador.cpp
+	<iostream>
+	"jugador.h"
+
+1527989212 c:\users\ruso-note\desktop\02-06-2018 desarrollo de las tda\jugador.h
+	<string>
+
+1527988773 source:c:\users\ruso-note\desktop\02-06-2018 desarrollo de las tda\main.cpp
+	<iostream>
+	<string>
+
+1527999811 source:c:\users\ruso-note\desktop\02-06-2018 desarrollo de las tda\listajugadores.cpp
+	"listaJugadores.h"
+	"ptroFin.h"
+
+1527999635 c:\users\ruso-note\desktop\02-06-2018 desarrollo de las tda\listajugadores.h
+	"jugador.h"
+
+1527998247 source:c:\users\ruso-note\desktop\02-06-2018 desarrollo de las tda\listaequipos.cpp
+	"listaEquipos.h"
+	"ptroFin.h"
+
+1527999784 c:\users\ruso-note\desktop\02-06-2018 desarrollo de las tda\listaequipos.h
+	"equipo.h"
+
+1527998252 source:c:\users\ruso-note\desktop\02-06-2018 desarrollo de las tda\listagrupos.cpp
+	"listaGrupos.h"
+	"ptroFin.h"
+
+1527999602 c:\users\ruso-note\desktop\02-06-2018 desarrollo de las tda\listagrupos.h
+	"grupo.h"
+
+1527999185 c:\users\ruso-note\desktop\02-06-2018 desarrollo de las tda\ptrofin.h
+
+1527999771 source:c:\users\ruso-note\desktop\02-06-2018 desarrollo de las tda\listapartidos.cpp
+	"listaPartidos.h"
+	"ptroFin.h"
+
+1527999654 c:\users\ruso-note\desktop\02-06-2018 desarrollo de las tda\listapartidos.h
+	"partido.h"
+

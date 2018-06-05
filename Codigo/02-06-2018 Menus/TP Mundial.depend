@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1527865304 source:c:\users\agus\desktop\mundial\01-06-2018\equipo.cpp
+	<iostream>
+	"equipo.h"
+
+1527865206 c:\users\agus\desktop\mundial\01-06-2018\equipo.h
+
+1527865396 source:c:\users\agus\desktop\mundial\01-06-2018\grupo.cpp
+	<iostream>
+	"grupo.h"
+
+1527860320 c:\users\agus\desktop\mundial\01-06-2018\grupo.h
+
+1527865430 source:c:\users\agus\desktop\mundial\01-06-2018\jugador.cpp
+	<iostream>
+	"jugador.h"
+
+1527865162 c:\users\agus\desktop\mundial\01-06-2018\jugador.h
+
+1527865472 source:c:\users\agus\desktop\mundial\01-06-2018\partido.cpp
+	<iostream>
+	"partido.h"
+
+1527865132 c:\users\agus\desktop\mundial\01-06-2018\partido.h
+
+1527968174 source:c:\users\agus\desktop\mundial\01-06-2018\main.cpp
+	<iostream>
+
+1527974015 source:c:\users\ruso-note\google drive\unla\2°do año\estructura de datos\proyectos\tp mundial\codigo\02-06-2018 menus\equipo.cpp
+	<iostream>
+	"equipo.h"
+
+1527974016 c:\users\ruso-note\google drive\unla\2°do año\estructura de datos\proyectos\tp mundial\codigo\02-06-2018 menus\equipo.h
+
+1527974016 source:c:\users\ruso-note\google drive\unla\2°do año\estructura de datos\proyectos\tp mundial\codigo\02-06-2018 menus\grupo.cpp
+	<iostream>
+	"grupo.h"
+
+1527974016 c:\users\ruso-note\google drive\unla\2°do año\estructura de datos\proyectos\tp mundial\codigo\02-06-2018 menus\grupo.h
+
+1527974016 source:c:\users\ruso-note\google drive\unla\2°do año\estructura de datos\proyectos\tp mundial\codigo\02-06-2018 menus\jugador.cpp
+	<iostream>
+	"jugador.h"
+
+1527974016 c:\users\ruso-note\google drive\unla\2°do año\estructura de datos\proyectos\tp mundial\codigo\02-06-2018 menus\jugador.h
+
+1527974014 source:c:\users\ruso-note\google drive\unla\2°do año\estructura de datos\proyectos\tp mundial\codigo\02-06-2018 menus\partido.cpp
+	<iostream>
+	"partido.h"
+
+1527974015 c:\users\ruso-note\google drive\unla\2°do año\estructura de datos\proyectos\tp mundial\codigo\02-06-2018 menus\partido.h
+
